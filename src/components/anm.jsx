@@ -43,7 +43,7 @@ const AnimatedCounter = ({ onFinish }) => {
           <div className={`absolute right-[15vw] top-[17vh] w-[66vw] h-[70vh] rounded-xl bg-gray-50/30 shadow-right ${shadowAnimationComplete ? 'opacity-0' : 'opacity-0'} transition-opacity duration-0`}></div>
         </>
       )}
-      <div className={`relative z-10 flex items-center justify-center transition-all duration-1000 ${expand ? 'w-full h-full' : 'w-[66vw] h-[70vh]'} bg-[url("../public/images/back45.png")] bg-cover rounded-xl`}>
+      <div className={`relative z-10 flex items-center justify-center transition-all duration-1000 ${expand ? 'w-full h-full' : 'w-[66vw] h-[70vh]'} bg-[url("../public/images/back46.png")] bg-cover rounded-xl`}>
         {!expand ? (
           <div className="text-9xl mt-[20vh] ml-[46.5vw]  font-semibold  text-black animate-pulse">
            
