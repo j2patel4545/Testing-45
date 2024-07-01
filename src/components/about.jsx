@@ -37,7 +37,7 @@ function About() {
       <div className='text-2xl -mt-16 justify-center flex  text-zinc-600'>--Who We Are--</div>
       <div className='flex mt-7 w-fullgap-2 h-[68vh] align-middle justify-evenly'>
         <div className='flex h-full w-2/8 align-middle justify-center'>
-          <img src="../public/images/j3.png" alt="" className='j object-contain border-b-2 border-black h-full w-full' />
+          <img src="../public/images/j2.png" alt="" className='j object-contain border-b-2 border-black h-full w-full' />
         </div>
         <div className='flex-col mt-[27.5vh] h-full w-2/4'>
           <h1 className='  text-[2.vw] font-bold leading-10 pb-3'>
