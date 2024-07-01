@@ -54,11 +54,11 @@ l-57 35 0 159 0 159 76 0 c70 0 78 -2 104 -28z"/>
         </a>
         <div className='links flex gap-10 services.classes'>
     {[
-        // { name: "About", link: "#about"  },
-        // { name: "Project's", link: "https://work-portfolio-drab.vercel.app/" },
-        // { name: "About us", link: "https://jetal-intro.vercel.app/profile/Profile.html" },
-        // { name: "Insights", link: "/insights" },
-        // { name: "Contact", link: "/contact" }
+        { name: "About", link: "#about"  },
+        { name: "Project's", link: "https://work-portfolio-drab.vercel.app/" },
+        { name: "About us", link: "https://jetal-intro.vercel.app/profile/Profile.html" },
+        { name: "Insights", link: "/insights" },
+        { name: "Contact", link: "/contact" }
     ].map((item, index) => (
         <a
             key={index}
