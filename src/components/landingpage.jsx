@@ -24,7 +24,7 @@ function LandingPage() {
   return (
     <div ref={scrollRef} data-scroll data-scroll-section data-scroll-speed="-0.5" className="relative flex-col w-full h-screen pt-1">
       <div className="textstructure mt-[16vh] px-20">
-        {["Creating", "..Engaging ", "Presentations"].map((item, index) => (
+        {["Creating", "Engaging ", "Presentations"].map((item, index) => (
           <div className="classmaske" key={index}>
             <h1 className="flex uppercase leading-[7vw] text-[7.5vw] font-['Founders_Grotesk_X-Condensed'] tracking-tight font-semibold">
               <div className="w-fit flex">
